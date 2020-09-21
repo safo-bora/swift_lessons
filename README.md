@@ -1,1 +1,2 @@
-# swift_lessons
+# Swift Lessons
+Basic study with swift
